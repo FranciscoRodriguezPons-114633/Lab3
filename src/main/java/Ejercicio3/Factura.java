@@ -29,10 +29,6 @@ public class Factura {
         System.out.println("El total de la factura es: " + totalFactura);
         //Cerramos el scanner
         scanner.close();
-
-
-
-
     }
 
 
